@@ -11,6 +11,8 @@
 ### ⚙️ Executive Summary
 R&D Mechatronics Engineer & Robotics Integration Specialist bridging the gap between mechanical design and software control. Leveraging 3+ years of industrial CAD/CAM experience alongside ROS 2 and C++ to develop autonomous systems and hardware-in-the-loop simulations for automotive R&D. Incoming M.Sc. candidate in Applied Mechanics and Mechatronics at STU Slovakia.
 
+---
+
 ### 🛠️ Technical Arsenal
 
 | Domain | Technologies & Tools |
@@ -20,16 +22,22 @@ R&D Mechatronics Engineer & Robotics Integration Specialist bridging the gap bet
 | **Simulation & FEA** | ANSYS, Fusion 360 Simulation, Kinematics, Tolerance Stack-Up |
 | **Data & Lifecycle Management** | PDM Systems, SolidWorks PDM, Teamcenter |
 
+---
+
 ### 🚀 Professional Engineering Highlights
 
 *   **Design Automation Leader:** Reduced design and drafting times by 40% at SEDIN Technologies through automated parametric modeling workflows for custom conveyor systems and earthmoving attachments.
 *   **Robotics Integration:** Designed the mechanical structure, optimized load simulations, and led prototype fabrication for a Solar Panel Cleaning Robot deployed for Adani Green Energies during tenure at Min1 Automation.
 *   **Performance Validation:** Executed rigorous FEA simulations (ANSYS, Fusion 360) to validate the structural integrity of complex assemblies, minimizing physical prototyping iterations and ensuring manufacturing feasibility. 
 
+---
+
 ### 🏆 Credentials & Advanced Training
 *   **Certified SolidWorks Professional (CSWP)** – Dassault Systèmes
 *   **Specialized Certifications:** SolidWorks Sheet Metal, Weldments, and Drawing – Dassault Systèmes
 *   **Currently Pursuing:** Advanced surface modeling credentials (SolidWorks Professional Surface, Creo User Modeling Specialist) to align with European automotive R&D standards.
+
+---
 
 ### 📂 Featured Architectures & Projects
 *   **`https://github.com/SivakumarThirumurugan/Radial-Engine`**
@@ -44,9 +52,6 @@ R&D Mechatronics Engineer & Robotics Integration Specialist bridging the gap bet
 *   **`https://github.com/SivakumarThirumurugan/IKRC`**
     *   *Stack:* CAD, FEA, Manufacturing Drawings.
     *   *Scope:* Complete mechanical design, FEA validation, and physical prototyping for the Titan Autocorp Indian Kart Racing Championship as Team Lead.
-
----
----
 
 ---
 
