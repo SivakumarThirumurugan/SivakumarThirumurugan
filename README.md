@@ -3,7 +3,7 @@
 **R&D Mechatronics Engineer | Robotics Integration Specialist**
 
 <div align="center">
-  *Bridging precision mechanical hardware with intelligent robotic systems.*
+  **Bridging precision mechanical hardware with intelligent robotic systems.**
 </div>
 
 ---
