@@ -3,13 +3,13 @@
 **R&D Mechatronics Engineer | Robotics Integration Specialist**
 
 <div align="center">
-  **Bridging precision mechanical hardware with intelligent robotic systems.**
+  Bridging precision mechanical hardware with intelligent robotic systems.
 </div>
 
 ---
 
 ### ⚙️ Executive Summary
-I am a Mechanical Design Engineer with over 3 years of experience, having delivered over 300 custom, precision-engineered designs for industrial automation and heavy equipment sectors. As an incoming Master of Science candidate in Applied Mechanics and Mechatronics at the Slovak University of Technology in Bratislava (Sept 2026 – 2028), my focus is on hardware-in-the-loop simulation, digital twins, and autonomous automotive R&D. I specialize in fusing advanced CAD/CAM architectures with ROS 2 integrations.
+R&D Mechatronics Engineer & Robotics Integration Specialist bridging the gap between mechanical design and software control. Leveraging 3+ years of industrial CAD/CAM experience alongside ROS 2 and C++ to develop autonomous systems and hardware-in-the-loop simulations for automotive R&D. Incoming M.Sc. candidate in Applied Mechanics and Mechatronics at STU Slovakia.
 
 ### 🛠️ Technical Arsenal
 
@@ -32,22 +32,36 @@ I am a Mechanical Design Engineer with over 3 years of experience, having delive
 *   **Currently Pursuing:** Advanced surface modeling credentials (SolidWorks Professional Surface, Creo User Modeling Specialist) to align with European automotive R&D standards.
 
 ### 📂 Featured Architectures & Projects
-*   **`(https://github.com/SivakumarThirumurugan/Radial-Engine)`**
+*   **`https://github.com/SivakumarThirumurugan/Radial-Engine`**
     *   *Stack:* Advanced CAD (SolidWorks/Creo), Kinematics, FEA.
     *   *Scope:* Comprehensive 3D modeling, kinematic study, and performance analysis of a multi-cylinder radial engine architecture, focusing on complex assembly design, motion simulation, and clearance management.
-*   **`[Insert Repo Link: Autonomous-Vehicle-Chassis]`**
+*   **`Autonomous-Vehicle-Chassis`**
     *   *Stack:* ROS 2, C++, Siemens NX/CATIA, Gazebo.
     *   *Scope:* Translating complex automotive chassis designs from CAD into URDF format for autonomous navigation and sensor fusion within ROS 2.
-*   **`[Insert Repo Link: IoT-Mechatronic-Monitoring]`**
+*   **`IoT-Mechatronic-Monitoring`**
     *   *Stack:* ESP32 Mini, C++, Python.
     *   *Scope:* Secure intranet-based IoT monitoring architecture bridging physical hardware with live data tracking.
-*   **`(https://github.com/SivakumarThirumurugan/IKRC)`**
+*   **`https://github.com/SivakumarThirumurugan/IKRC`**
     *   *Stack:* CAD, FEA, Manufacturing Drawings.
     *   *Scope:* Complete mechanical design, FEA validation, and physical prototyping for the Titan Autocorp Indian Kart Racing Championship as Team Lead.
 
 ---
+---
+
+---
 
 <div align="center">
-  📫 **Connect & Collaborate** <br>
-  [LinkedIn](linkedin.com/in/sivakumar-thirumurugan/) • [Email](mailto:sivakumarthirumurugan@gmail.com) 
+  📫 **Let's Connect & Collaborate** <br>
+  *I am always open to discussing automotive R&D, robotics integration, and mechatronic design.* <br><br>
+  
+  <a href="https://www.linkedin.com/in/sivakumar-thirumurugan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sivakumarthirumurugan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://sivakumar-t.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
+
