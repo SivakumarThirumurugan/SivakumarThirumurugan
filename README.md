@@ -56,7 +56,7 @@ R&D Mechatronics Engineer & Robotics Integration Specialist bridging the gap bet
 ---
 
 <div align="center">
-  📫 **Let's Connect & Collaborate** <br>
+  📫Let's Connect & Collaborate <br>
   *I am always open to discussing automotive R&D, robotics integration, and mechatronic design.* <br><br>
   
   <a href="https://www.linkedin.com/in/sivakumar-thirumurugan/">
